@@ -4,3 +4,5 @@ def isAllDigitsEven(m):
       return False
     m //= 10
   return True
+isAllDigitsEven(12324)
+isAllDigitsEven(246)
