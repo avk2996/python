@@ -1,0 +1,24 @@
+External Libraries
+numpy Array handling abilities; the foundation for all other scientific and Machine Learning algorithm implementations
+
+scipy This is not a single library. It is a collection scientific computational modules such as linear algebra, statistics, ODE solvers, optimizers, special functions and so on.
+
+matplotlib The comprehensive and somewhat complex plotting library
+
+pandas The swiss army knife of large data manipulation
+
+pillow Python imaging library.
+
+openCV Comprehensive computer vision library
+
+tweepy Twitter API
+
+nltk a humongous collection of libraries and corpora for natural language processing
+
+theano Theano is a Python library for manipulating and evaluating mathematical expressions, especially matrix-valued ones. discontinued
+
+Keras Attempts to be a user friendly neural network library on top of theano, tensorflow etc
+
+Tensorflow A symbolic library and dataflow programming toolkit very suited for complex mahine learning tasks
+
+pyTorch Similar to tensorflow but many find it easier to use
